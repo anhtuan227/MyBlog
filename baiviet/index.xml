@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baiviet on Parsa | Personal Blog Template</title>
+    <link>https://anhtuan227.github.io/myblog/baiviet/</link>
+    <description>Recent content in Baiviet on Parsa | Personal Blog Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <lastBuildDate>Mon, 03 Feb 2020 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://anhtuan227.github.io/myblog/baiviet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>bai_viet</title>
+      <link>https://anhtuan227.github.io/myblog/baiviet/bai_viet/</link>
+      <pubDate>Mon, 03 Feb 2020 14:46:10 +0600</pubDate>
+      
+      <guid>https://anhtuan227.github.io/myblog/baiviet/bai_viet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
