@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rong_bien on Parsa | Personal Blog Template</title>
+    <link>https://anhtuan227.github.io/myblog/rongbiensp/rong_bien/</link>
+    <description>Recent content in rong_bien on Parsa | Personal Blog Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <lastBuildDate>Fri, 10 Jan 2020 10:01:20 +0700</lastBuildDate>
+    
+	<atom:link href="https://anhtuan227.github.io/myblog/rongbiensp/rong_bien/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rong Biển Cháy Tỏi</title>
+      <link>https://anhtuan227.github.io/myblog/rong-bien-chay-toi/</link>
+      <pubDate>Fri, 10 Jan 2020 10:01:20 +0700</pubDate>
+      
+      <guid>https://anhtuan227.github.io/myblog/rong-bien-chay-toi/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Rong Biển Cháy Tỏi Mè</title>
+      <link>https://anhtuan227.github.io/myblog/rong-bien-chay-toi-me/</link>
+      <pubDate>Fri, 10 Jan 2020 10:01:20 +0700</pubDate>
+      
+      <guid>https://anhtuan227.github.io/myblog/rong-bien-chay-toi-me/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Rong Biển Cháy Giòn</title>
+      <link>https://anhtuan227.github.io/myblog/rong-bien-chay-gion/</link>
+      <pubDate>Fri, 04 Oct 2019 10:01:20 +0700</pubDate>
+      
+      <guid>https://anhtuan227.github.io/myblog/rong-bien-chay-gion/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Rong Biển Cháy Tỏi Ớt</title>
+      <link>https://anhtuan227.github.io/myblog/rong-bien-chay-toi-ot/</link>
+      <pubDate>Fri, 04 Oct 2019 10:01:20 +0700</pubDate>
+      
+      <guid>https://anhtuan227.github.io/myblog/rong-bien-chay-toi-ot/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Rong Biển Cháy Tỏi Ớt Mè</title>
+      <link>https://anhtuan227.github.io/myblog/rong-bien-chay-toi-ot-me/</link>
+      <pubDate>Fri, 04 Oct 2019 10:01:20 +0700</pubDate>
+      
+      <guid>https://anhtuan227.github.io/myblog/rong-bien-chay-toi-ot-me/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+  </channel>
+</rss>
